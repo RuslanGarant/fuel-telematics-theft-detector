@@ -1,8 +1,6 @@
 # Garant-Fleet Fuel: IoT Telematics & Intelligent Fuel Analytics System
 ### Part of the "Garant-Fleet AI" Integrated Intelligent Analytics Ecosystem
 
-![Garant-Fleet AI Banner](https://raw.githubusercontent.com/RuslanGarant/vehicle-faceid-immobilizer/main/assets/banner.png) *(Placeholder for Ecosystem Banner)*
-
 ## Platform Overview
 **Garant-Fleet Fuel** is an enterprise-level IoT telematics analytics platform designed for large-scale fleet management, fuel accountability, and economic asset protection. Operating as the primary financial security layer of the unified **Garant-Fleet AI** ecosystem developed by a single founder, this intelligent analytics framework processes high-frequency raw data streams from capacitive Fuel Level Sensors (FLS) via CAN-bus or GPS gateways to automatically isolate fuel anomalies and eliminate commercial fuel theft in real-time.
 
